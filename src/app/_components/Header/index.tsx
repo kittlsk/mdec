@@ -37,7 +37,7 @@ export async function Header() {
             <img
               className={classes.logo}
               alt="MDEC Logo"
-              src="/mdec-light.png"
+              src="/mdec-light-trans.png"
               //src="https://raw.githubusercontent.com/payloadcms/payload/main/packages/payload/src/admin/assets/images/payload-logo-light.svg"
             />
           </Link>
